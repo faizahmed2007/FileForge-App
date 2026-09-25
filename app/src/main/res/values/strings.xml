@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileForge</string>
+    <string name="default_web_client_id_placeholder" translatable="false">677252728704-placeholder.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "FileForge",
+  "description": "Compress, resize, and convert files completely offline with local on-device processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
